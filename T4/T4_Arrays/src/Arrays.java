@@ -20,6 +20,7 @@ public class Arrays {
 
         for (int i = 0; i < numerosDos.length; i++){
             System.out.println(numerosDos[i]);
+            System.out.println("Hola Mundo");
         }
 
     }
