@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c40ec6fa-49d6-43f0-9429-65282870d643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sumaAristas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T4_Ejercicios/src/base/Ejercicio15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../T4_Ejercicios/src/base/Ejercicio15Bien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T4_Arrays.iml" beforeDir="false" afterPath="$PROJECT_DIR$/T4_Arrays.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sumaAristas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumaAristas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../T4_Ejercicios/out/production/T4_Ejercicios/base/Ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T4_Ejercicios/out/production/T4_Ejercicios/base/Ejercicio6.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

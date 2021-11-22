@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class sumaAristas {
@@ -54,3 +53,5 @@ public class sumaAristas {
     }
 
 }
+
+
