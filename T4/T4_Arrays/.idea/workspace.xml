@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c40ec6fa-49d6-43f0-9429-65282870d643" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../T4_Ejercicios/src/base/Ejercicio15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../T4_Ejercicios/src/base/Ejercicio15Bien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colecciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coleccionesTipadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ejercicios/src/ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen_ev/src/ejercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../examen_ev/src/ejercicio2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sumaAristas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sumaAristas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../T4_Ejercicios/out/production/T4_Ejercicios/base/Ejercicio6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../T4_Ejercicios/out/production/T4_Ejercicios/base/Ejercicio6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/T4_Arrays/sumaAristas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T4_Arrays/sumaAristas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,16 +37,49 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.sumaAristas">
-    <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays" />
+  <component name="RunManager" selected="Application.ejercicio1">
+    <configuration name="Coleccion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4_Arrays.Coleccion" />
+      <module name="T4_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T4_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Colecciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Colecciones" />
       <module name="T4_Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sumaAristas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sumaAristas" />
+    <configuration name="colecciones (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="T4_Arrays.colecciones" />
+      <module name="T4_Arrays" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="T4_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="colecciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="colecciones" />
+      <module name="T4_Arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ejercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ejercicio1" />
       <module name="T4_Arrays" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -51,8 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.sumaAristas" />
-        <item itemvalue="Application.Arrays" />
+        <item itemvalue="Application.ejercicio1" />
+        <item itemvalue="Application.colecciones" />
+        <item itemvalue="Application.Colecciones" />
+        <item itemvalue="Application.colecciones (1)" />
+        <item itemvalue="Application.Coleccion" />
       </list>
     </recent_temporary>
   </component>
