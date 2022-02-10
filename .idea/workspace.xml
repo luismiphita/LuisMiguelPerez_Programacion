@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76d382fa-c6d1-466d-9e87-597d83d5fa46" name="Changes" comment="" />
+    <list default="true" id="76d382fa-c6d1-466d-9e87-597d83d5fa46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/T5_Ejercicios.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Carrera/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Carrera/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Agenda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Ingrediente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Pizzeria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio8/Entrada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio8/Equipo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T05_poo/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/T05_poo/src/Entrada.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T05_poo/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/T05_poo/src/Usuario.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/T4/T4_Arrays" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
     <configuration name="Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">

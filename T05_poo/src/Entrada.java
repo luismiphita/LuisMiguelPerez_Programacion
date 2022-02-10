@@ -1,44 +1,41 @@
 public class Entrada {
 
-    //ambito de clase
-    //String nombre = "Luismi";
+    // ambito de clase
+    // String nombre = "Borja";
 
     public static void main(String[] args) {
-
-        //ambito de metodo
-        //String nombre = "Luismi";
-
+        // ambito de metodo - local
+        // String nombre = "Borja";
         Usuario usuario1 = new Usuario();
-        // nombre = null, pass = null, correo = null, edad = 0, fecha = null
+        // nombre="Por defecto", pass=null, correo="Por defecto", edad=0, fecha=null
 
         Usuario usuario2 = new Usuario();
-        // nombre = null, pass = null, correo = null, edad = 0, fecha = null
+        // nombre="Por defecto", pass=null, correo="Por defecto", edad=0, fecha=null
 
-        Usuario usuario3 = new Usuario("luismi", "luismiphita@gmail.com", "pass");
+        Usuario usuario3 = new Usuario("Borja","borja.martin@ces.es"
+                ,"pass");
+        // nombre="Borja", pass="pass", correo="borja.martin@ces.es", edad=0, fecha=null
 
-        Usuario usuario4 = new Usuario("luismiphita@gmail.com", "pass", 19);
+        Usuario usuario4 = new Usuario("borja.martin@ces.es","pass",20);
+        // nombre=null, pass="pass", correo="borja.martin@ces.es", edad=20, fecha=null
 
-        // usuario1.password = "contraseña";
-        // System.out.println(usuario1.password);
-
+        /*System.out.println(usuario1.password);
+        usuario1.password = "contraseña";
+        System.out.println(usuario1.password);
+        // nombre="Por defecto", pass="contraseña", correo="Por defecto", edad=0, fecha=null
+        */
 
         usuario1.setPassword("contraseña");
-        System.out.println(usuario1.getPassword());
+        //System.out.println(usuario1.getPassword());
 
-        usuario1.setApellidos("Perez");
-        System.out.println(usuario1.getApellidos());
+        //usuario1.mostrarDatos();
+        //System.out.println(usuario1.mostrarDatosRetorno());
+        usuario1.saludar("Borja");
+        usuario1.saludar("Luis");
 
-        usuario1.setCorreoElectronico("luismiphita@gmail.com");
-        System.out.println(usuario1.getCorreoElectronico());
 
-        usuario1.setEdad(19);
-        System.out.println(usuario1.getEdad());
 
-        usuario1.setFecha("1 de marzo de 1743");
-        System.out.println(usuario1.getFecha());
 
-        usuario1.setNombre("Luismi");
-        System.out.println(usuario1.getNombre());
 
     }
 
