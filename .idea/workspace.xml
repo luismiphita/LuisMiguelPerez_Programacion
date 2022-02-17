@@ -1,50 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76d382fa-c6d1-466d-9e87-597d83d5fa46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/T5_Ejercicios.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Carrera/Coche.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Carrera/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Agenda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Ejercicio/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Ingrediente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Luismi/Pizzeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Ingrediente.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Pizza.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio3/Pizzeria.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio8/Entrada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/T5_Ejercicios/src/ejercicio8/Equipo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T05_poo/src/Entrada.java" beforeDir="false" afterPath="$PROJECT_DIR$/T05_poo/src/Entrada.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T05_poo/src/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/T05_poo/src/Usuario.java" afterDir="false" />
+    <list default="true" id="53a44091-a12d-48f6-a5c3-cd97943e078b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="20uxUoEsafX5FAYmNHsGkI1RiSq" />
+  <component name="ProjectId" id="25EKnhZU7v5FAsMdughspYxhv7c" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -52,30 +23,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-  </component>
-  <component name="RunManager">
-    <configuration name="Arrays2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays2" />
-      <module name="LuisMiguelPerez_Programacion" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Arrays2" />
-      </list>
-    </recent_temporary>
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="76d382fa-c6d1-466d-9e87-597d83d5fa46" name="Changes" comment="" />
-      <created>1636908293395</created>
+      <changelist id="53a44091-a12d-48f6-a5c3-cd97943e078b" name="Changes" comment="" />
+      <created>1645086977411</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1636908293395</updated>
+      <updated>1645086977411</updated>
     </task>
     <servers />
   </component>
